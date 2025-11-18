@@ -65,7 +65,7 @@
 #define TFT800600				7	//A104
 #define VGA1024768				8	//VGA 1024*768
 
-#define LCD_TFT					TFT240320
+#define LCD_TFT					TFT480272
 
 #if(LCD_TFT == W35)
 #define	CONFIG_EMBEDSKY_LCD_VBPD		12
